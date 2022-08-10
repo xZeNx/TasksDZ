@@ -16,3 +16,4 @@ else
 {
     Console.WriteLine ("Число не трёхзначное:");
 }
+
